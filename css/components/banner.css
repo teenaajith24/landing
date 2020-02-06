@@ -1,0 +1,17 @@
+.banner{
+  background-image: url("https://images.unsplash.com/photo-1519010470956-6d877008eaa4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=635&q=80");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0px;
+
+}
+
+.btn-primary{
+  display: inline-block;
+  background-color: black;
+  border-radius: 50px;
+  width: 100px;
+
+  padding: 16px 36px;
+  color: white;
+}
